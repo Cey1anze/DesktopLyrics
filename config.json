@@ -1,0 +1,12 @@
+{
+    "font_family": "\u5fae\u8f6f\u96c5\u9ed1",
+    "font_size": 20,
+    "text_color": "#ffffff",
+    "window_x": 240,
+    "window_y": 906,
+    "window_height": 200,
+    "alignment": "Bottom Center",
+    "locked": false,
+    "click_through": false,
+    "provider": "NetEase"
+}

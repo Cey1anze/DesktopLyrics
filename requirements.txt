@@ -1,0 +1,4 @@
+winsdk
+syncedlyrics
+PyQt6
+qasync
